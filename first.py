@@ -1,5 +1,5 @@
 def print_hi():
-    print('САЛАМ!!!')
+    print('My first git-repo')
 
 
 if __name__ == '__main__':
